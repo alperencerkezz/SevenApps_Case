@@ -38,7 +38,5 @@ MIT License
 
 ## Screenshots
 
-![image_alt](https://github.com/alperencerkezz/SevenApps_Case/blob/main/main.png?raw=true)
-
-![image_alt](https://github.com/alperencerkezz/SevenApps_Case/blob/main/details.png?raw=true)
- 
+<img src="https://github.com/alperencerkezz/SevenApps_Case/blob/main/main.png?raw=true" width="300"/>
+<img src="https://github.com/alperencerkezz/SevenApps_Case/blob/main/details.png?raw=true" width="300"/>
